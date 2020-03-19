@@ -1,0 +1,11 @@
+1: Santa1
+2: Santa2
+3: Snowman
+4: Angel1
+5: Angel2
+6: Angel3
+7: Bear1
+8: Bear2
+9: Bear3
+
+-1: Fail

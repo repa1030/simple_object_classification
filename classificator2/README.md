@@ -1,1 +1,1 @@
-#Object Classificator Bayes
+# Object Classificator Bayes

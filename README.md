@@ -1,4 +1,15 @@
-#Object Classificator
+# Object Classificator
+
+## Requirements
+
+* Python Pip:  
+`sudo apt install python-pip`
+* OpenCV:  
+`pip install opencv-python`
+* TQDM:  
+`pip install tqdm`
+* Numpy:  
+`pip install numpy`
 
 ## How To Use
 
@@ -10,4 +21,3 @@
 Format of data:
 
 [class, canny (non zero), mean blue value, mean green value, mean red value]
-

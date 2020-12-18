@@ -15,9 +15,6 @@ class KNearestNeighbor:
         self.k = k_neighbors
         self.det_cl = detection_classes
 
-    def calcDistance(self, p1, p2):
-        return math.sqrt(dst)
-
     def predictClass(self):
         # foreach test data
         cnt_all = len(self.data_test)
